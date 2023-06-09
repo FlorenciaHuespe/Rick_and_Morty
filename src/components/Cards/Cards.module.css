@@ -1,0 +1,12 @@
+.contenedor1{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+ 
+ 
+}
